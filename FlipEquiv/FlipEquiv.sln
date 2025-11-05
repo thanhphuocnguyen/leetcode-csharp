@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FlipEquiv", "FlipEquiv.csproj", "{DFABEFA3-02CD-4F32-97FE-0E89E2C62645}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFABEFA3-02CD-4F32-97FE-0E89E2C62645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFABEFA3-02CD-4F32-97FE-0E89E2C62645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFABEFA3-02CD-4F32-97FE-0E89E2C62645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFABEFA3-02CD-4F32-97FE-0E89E2C62645}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F345F74B-268E-4558-B80E-BB6FC74FAF1B}
+	EndGlobalSection
+EndGlobal

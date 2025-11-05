@@ -1,0 +1,5 @@
+.vscode/
+# csharp exclude folders
+bin/
+obj/
+.vs/
