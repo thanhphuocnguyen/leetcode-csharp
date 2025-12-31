@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountCollisions", "CountCollisions.csproj", "{C01939FD-2970-1DE7-8172-79FBD34F6523}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C01939FD-2970-1DE7-8172-79FBD34F6523}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C01939FD-2970-1DE7-8172-79FBD34F6523}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C01939FD-2970-1DE7-8172-79FBD34F6523}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C01939FD-2970-1DE7-8172-79FBD34F6523}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D5AE6612-9659-42F4-8911-219834C37C0D}
+	EndGlobalSection
+EndGlobal

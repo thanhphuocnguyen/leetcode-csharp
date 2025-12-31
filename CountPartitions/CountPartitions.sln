@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CountPartitions", "CountPartitions.csproj", "{387C8162-0794-E29A-CB5D-652D544E9DCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{387C8162-0794-E29A-CB5D-652D544E9DCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{387C8162-0794-E29A-CB5D-652D544E9DCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{387C8162-0794-E29A-CB5D-652D544E9DCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{387C8162-0794-E29A-CB5D-652D544E9DCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB6A0819-CA60-4D60-87D8-2A015CF9B5BD}
+	EndGlobalSection
+EndGlobal
